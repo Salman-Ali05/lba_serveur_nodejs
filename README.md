@@ -2,6 +2,7 @@
 Test tech Les Bons Artisants - Partie Serveur
 
 Before anything :
+In mongodb, create a Database called "lba_database" with a collection called "Products", and then insert the base_data.json
 ``#npm install``
 
 Then :
